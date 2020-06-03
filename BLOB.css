@@ -45,8 +45,8 @@ h1 span:before{
 	background:#ff1493;
 	width:60px;
 	height:60px;
-	top:400px;
-	left:210px
+	top:290px;
+	left:40px
 	}
 
 .blobs_2{
@@ -67,17 +67,17 @@ h1 span:before{
 
 .blobs_4{
 	background:#ff0000;
-	width:100px;
-	height:100px;
-	top:190px;
-	left:100px
+	width:90px;
+	height:90px;
+	top:130px;
+	left:80px
 	}
 
 .blobs_5{
 	background:#ffff00;
 	width:50px;
 	height:50px;
-	top:255px;
+	top:275px;
 	left:100px
 	}
 
@@ -86,15 +86,15 @@ h1 span:before{
 	width:60px;
 	height:60px;
 	top:220px;
-	left:140px
+	left:120px
 	}
 
 .blobs_7{
 	background:#ff8c00;
-	width:80px;
-	height:50px;
-	top:310px;
-	left:280px
+	width:50px;
+	height:40px;
+	top:290px;
+	left:240px
 	}
 
 @keyframes blobs{
