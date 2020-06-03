@@ -45,7 +45,7 @@ h1 span:before{
 	background:#ff1493;
 	width:60px;
 	height:60px;
-	top:290px;
+	top:400px;
 	left:210px
 	}
 
@@ -53,23 +53,23 @@ h1 span:before{
 	background:#ff4500;
 	width:80px;
 	height:80px;
-	top:155px;
-	left:230px
+	top:355px;
+	left:270px
 	}
 
 .blobs_3{
 	background:#00ff00;
 	width:60px;
 	height:60px;
-	top:145px;
-	left:20px
+	top:245px;
+	left:90px
 	}
 
 .blobs_4{
 	background:#ff0000;
 	width:100px;
 	height:100px;
-	top:115px;
+	top:190px;
 	left:100px
 	}
 
@@ -78,7 +78,7 @@ h1 span:before{
 	width:50px;
 	height:50px;
 	top:255px;
-	left:70px
+	left:100px
 	}
 
 .blobs_6{
@@ -86,7 +86,7 @@ h1 span:before{
 	width:60px;
 	height:60px;
 	top:220px;
-	left:55px
+	left:140px
 	}
 
 .blobs_7{
